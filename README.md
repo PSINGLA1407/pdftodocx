@@ -30,8 +30,8 @@ This repository provides a **Docx to PDF Converter** built using **Streamlit** a
 
 1. **Clone this repository**:
     ```bash
-    git clone https://github.com/yourusername/docx-to-pdf-converter.git
-    cd docx-to-pdf-converter
+    git clone https://github.com/psingla1407/docxtopdf.git
+    cd docxtopdf
     ```
 
 2. **Build the Docker image**:
@@ -64,4 +64,6 @@ This repository provides a **Docx to PDF Converter** built using **Streamlit** a
 ---
 
 ## 📂 Directory Structure
+
+
 
