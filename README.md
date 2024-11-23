@@ -1,4 +1,7 @@
 # 📄 Docx to PDF Converter with Password Protection
+
+Hosted and live at http://34.45.129.202:8501/
+
 ![image](https://github.com/user-attachments/assets/aa5e6a95-ff33-45bd-9289-739dcfd8cf3a)
 
 This repository provides a **Docx to PDF Converter** built using **Streamlit** and **LibreOffice**, containerized with **Docker**. Additionally, the app includes a feature to add password protection to the generated PDF files.
@@ -62,8 +65,6 @@ This repository provides a **Docx to PDF Converter** built using **Streamlit** a
    - Download the password-protected PDF.
 
 ---
-
-## 📂 Directory Structure
 
 
 
