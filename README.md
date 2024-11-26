@@ -1,6 +1,6 @@
 # 📄 Docx to PDF Converter with Password Protection
 
-Hosted and live at http://34.45.129.202:8501/
+Hosted and live at http://34.45.129.202:8501/ and https://shopco.tech/
 
 ![image](https://github.com/user-attachments/assets/aa5e6a95-ff33-45bd-9289-739dcfd8cf3a)
 
