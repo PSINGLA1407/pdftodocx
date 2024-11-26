@@ -1,21 +1,21 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: app
+  name: wordconverter-deployment
   labels:
-    app: app
+    app: wordconverter
 spec:
   replicas: 3
   selector:
     matchLabels:
-      app: app
+      app: wordconverter
   template:
     metadata:
       labels:
-        app: app
+        app: wordconverter
     spec:
       containers:
       - name: wordconverter
-        image: docx:latest
+        image: wordcoverter:latest  # Your Docker registry name
         ports:
         - containerPort: 80
